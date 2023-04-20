@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-open-sans: "Open Sans";
+  --font-planet-kosmos: "Planet Kosmos";
+  --font-dharma-gothic-e: "Dharma Gothic E";
+  --font-averia-serif-libre: "Averia Serif Libre";
+
+  /* font sizes */
+  --font-size-lg: 18px;
+  --font-size-11xl: 30px;
+  --font-size-31xl: 50px;
+  --font-size-23xl: 42px;
+  --font-size-base: 16px;
+
+  /* Colors */
+  --color-gray: #191919;
+  --color-white: #fff;
+  --color-black: #000;
+  --color-goldenrod: #fec333;
+
+  /* Gaps */
+  --gap-10xs: 3px;
+}
